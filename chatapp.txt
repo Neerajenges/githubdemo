@@ -2,3 +2,6 @@ This is a Chat App.
 Emoji
 Vibrant
 color
+ Audio call
+ video call
+ Dark theme
