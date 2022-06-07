@@ -5,3 +5,4 @@ color
  Audio call
  video call
  Dark theme
+diffenent indian laguage added
