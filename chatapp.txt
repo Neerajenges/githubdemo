@@ -6,3 +6,6 @@ color
  video call
  Dark theme
 diffenent indian laguage added
+payment feature
+send money 
+receive money
